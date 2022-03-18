@@ -6,3 +6,11 @@ Contains various DSP algorithms that make up an open-source plugin pack. Current
 
 <b>Latest release:</b> unavailable <br>
 <b>LTS release:</b> unavailable
+
+
+
+# List of plugins
+
+<ul>
+	<li>Analog Filter <i>WIP</i></li>
+</ul>
