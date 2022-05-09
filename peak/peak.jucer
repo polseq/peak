@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="A6OsM3" name="peak" projectType="guiapp" useAppConfig="1"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              version="0.0.1" companyName="polseq" companyCopyright="polseq 2022"
+              companyWebsite="polseq.com" companyEmail="support@polseq.com"
+              bundleIdentifier="com.polseq.peak">
   <MAINGROUP id="rE0ZQG" name="peak">
     <GROUP id="{04720E5E-6EBF-DF2F-0EBC-B42318C2DD86}" name="Source">
       <FILE id="kQxYtr" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
